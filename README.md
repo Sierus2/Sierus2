@@ -11,6 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sierus2&color=brightgreen" alt="Salohiddin Yoqubov"/> </p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sierus2)](https://github.com/Sierus2/github-readme-stats)
+
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sierus2&theme=radical" alt="adam-pw" /></p>
