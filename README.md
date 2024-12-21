@@ -7,7 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salohiddinyoqubov&layout=compact&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Salohiddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salohiddinyoqubov&count_private=true&include_all_commits&show_icons=true&theme=radical&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salohiddinyoqubov&count_private=true&show_icons=true&theme=radical&title_color=0366d6&include_all_commits=true&custom_title=Salohiddin's%20GitHub%20Stats&cache_seconds=1800&token=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)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salohiddinyoqubov&color=brightgreen" alt="Salohiddin Yoqubov"/> </p>
 
