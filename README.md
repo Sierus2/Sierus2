@@ -1,9 +1,7 @@
 ### Hello GitHub 👋👋👋
 
-### I am Salohiddin Yakubov 
-### I am a Python Backend Developer and Project Manager 
-
-Welcome to my GitHub profile! Here, you can find some of my latest work and contributions.
+### I am Salohiddin Yakubov
+### I am a Python Backend Developer and Project Manager
 
 [website]: https://github.com/salohiddinyoqubov
 
@@ -18,15 +16,17 @@ Welcome to my GitHub profile! Here, you can find some of my latest work and cont
 ### My GitHub Activity
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salohiddinyoqubov&theme=radical" alt="salohiddinyoqubov" /></p>
 
+![Salohiddin's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=salohiddinyoqubov&theme=radical)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=salohiddinyoqubov&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Achievements & Contributions:
 - 🔭 I’m currently working on several backend projects.
 - 🌱 I’m constantly learning and improving my skills in Python and Django.
 - 💬 Ask me about Python, Django, and Backend Development.
-- 📄 You can find my resume [here](https://github.com/salohiddinyoqubov).
 
 ### Connect with Me:
-- 💼 LinkedIn: [Salohiddin Yakubov](https://www.linkedin.com/in/salohiddinyoqubov/)
-- 📝 Blog: [Salohiddin's Blog](https://salohiddinyoqubov.com/blog)
+- 💼 LinkedIn: [Salohiddin Yakubov](https://www.linkedin.com/in/salohiddin-yoqubov-419862211/)
 
 ### Projects I’ve Contributed To:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=salohiddinyoqubov&repo=your-repository-name&theme=radical)](https://github.com/salohiddinyoqubov/your-repository-name)
