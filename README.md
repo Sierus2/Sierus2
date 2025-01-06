@@ -1,7 +1,7 @@
 ### Hello GitHub 👋👋👋
 
 ### I am Salohiddin Yakubov
-### I am a Python Backend Developer and Project Manager
+### I am a Python Backend Developer
 
 [website]: https://github.com/salohiddinyoqubov
 
